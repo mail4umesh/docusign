@@ -1,0 +1,36 @@
+html, body, .container {
+    height: 100%;
+}
+.container {
+    display: table;
+    vertical-align: middle;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+  
+.panel-inverted .panel-heading{
+  background-color:#1A3867;
+  border-color: #262674;
+  color:#FFF;
+}
+.panel-inverted{
+  border-color: #262674;;
+}
+
+.top-margin-10{
+  margin-top: 10px;
+}
+
+.btn-info {
+  color: #fff;
+  background-color: #1A3867;
+  border-color: #262674;
+}
+.btn-info:hover{
+  
+  background-color: #262674;
+  border-color: #262674;
+ 
+}

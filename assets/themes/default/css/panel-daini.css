@@ -1,0 +1,48 @@
+.panel-info > .panel-heading{
+	background: #5BC0DE;
+	color: #FFF;
+}
+
+.panel-danger > .panel-heading{
+	background: #D9534F;
+	color: #FFF;
+}
+
+.panel-success > .panel-heading{
+	background: #449D44;
+	color: #FFF;
+}
+
+.panel-warning > .panel-heading{
+	background: #F0AD4E;
+	color: #FFF;
+}
+
+.panel-inverse > .panel-heading{
+	background: #000;
+	color: #FFF;
+}
+
+.panel-white > .panel-heading{
+	background: #FFF;
+	color: #000;
+}
+
+.panel-default > .panel-heading{
+	background: #FFF;
+	color: #329CD5;
+	font-size: 20px;
+}
+
+.panel-default{
+  border-color: #FFF;
+}
+
+.panel-default > .panel-footer{
+  border-color: #FFF;
+  background: #FFF;
+  
+}
+
+
+

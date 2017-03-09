@@ -1,0 +1,224 @@
+
+
+.top-margin-10{
+	margin-top: 10px;
+}
+
+.left-margin-10{
+	margin-left: 10px;
+}
+
+.red{
+	color: #FF002A;
+}
+
+.yellow{
+	color: #EC971F;
+}
+
+.green{
+	color: #008000;
+}
+
+.blue{
+	color: #00AAFF;
+}
+
+.loading{
+	width: 64px;
+	min-height: 64px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	@base-url: "http://rs1.local";
+	background-image: url("../img/loading.gif");
+}
+
+
+.dataTables_wrapper{
+		margin-top: 20px;
+	}
+
+	.nav-pills > li > a {
+color: #FFF;
+background-color: #00AAFF;
+border:#FFF 1px solid;
+-moz-border-radius: 0px;
+-webkit-border-radius: 0px;
+ border-radius: 0px;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+color: #fff;
+background-color: #CC3D2C;
+}
+
+
+
+
+.nav-pills > li > a:hover {
+color: #00AAFF;
+}
+.tab-content{
+	background:#FFF;
+	padding:10px;
+	margin-left: 1px;
+	margin-right: 1px;
+	border-left: #AAA 1px solid;
+	border-right: #AAA 1px solid;
+	border-bottom: #AAA 2px solid;
+}
+
+
+.navbar-inverse{
+	background: #1A3867;
+}
+.navbar-inverse .navbar-brand {
+  color: #FFF;
+}
+.navbar {
+  
+  margin-bottom: 0px;
+ 
+}
+
+
+ .navbar-default .navbar-nav > .nav-info > a{
+        color: #FFF;
+        background-color: #5bc0de;
+        border-color: #46b8da;
+    }
+
+    .navbar-default .navbar-nav > .nav-success > a{
+        color: #fff;
+        background-color: #449d44;
+        border-color: #398439;
+    }
+
+    .navbar-default .navbar-nav > .nav-primary > a{
+        color: #fff;
+        background-color: #337ab7;
+        border-color: #2e6da4;
+    }
+
+    .navbar-default .navbar-nav > .nav-danger > a{
+        color: #fff;
+        background-color: #d9534f;
+        border-color: #d43f3a;
+    }
+
+    .navbar-default .navbar-nav > .nav-inverse > a{
+        color: #fff;
+        background-color: #111;
+        border-color: #111;
+    }
+
+
+
+    .navbar-inverse .navbar-nav > .nav-info > a{
+        color: #5bc0de;
+        
+    }
+
+    .navbar-inverse .navbar-nav > .nav-success > a{
+        color: #449d44;
+        
+    }
+
+    .navbar-inverse .navbar-nav > .nav-primary > a{
+        color: #337ab7;
+        
+    }
+
+    
+
+    .navbar-inverse .navbar-nav > .nav-warning > a{
+        color: #F0AD4E;
+        
+    }
+
+    .navbar-inverse .navbar-nav > .nav-danger > a{
+        color: #d9534f;
+        
+    }
+
+    .navbar-inverse .navbar-nav > .nav-inverse > a{
+        color: #fff;
+       
+    }
+
+.btn-info {
+  color: #fff;
+  background-color: #1A3867;
+  border-color: #262674;
+}
+.btn-info:hover{
+  
+  background-color: #262674;
+  border-color: #262674;
+ 
+}
+
+
+.toolbar {
+  position: fixed;
+  top: 50px;
+  min-height: :45px;
+  left: 0px;
+  right: 0px;
+  padding: 5px;
+ }
+
+ .toolbar1 {
+  position: fixed;
+  top: 50px;
+  min-height: :45px;
+  left: 0px;
+  right: 0px;
+  padding: 5px;
+ }
+
+
+ .eform-control{
+    float: right;
+    display: block;
+    width: 60%;
+    height: 34px;
+    font-size: 14px;
+    padding-left: 10px;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+
+  }
+
+  .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 0px;
+}
+
+  .eform-control2{
+    float: right;
+    display: block;
+    width: 100%;
+    height: 34px;
+    font-size: 14px;
+    padding-left: 10px;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+
+  }
+
+  .eform-label{
+    float: left;
+    clear: left;
+    height: 34px;
+  }
